@@ -7334,7 +7334,7 @@ a.navbar-item.is-active,
 
 @media screen and (max-width: 1023px) {
     .navbar>.container {
-        display: block
+        display: flex
     }
 
     .navbar-brand .navbar-item,
